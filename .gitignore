@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# dataset is downloaded by scripts/download_data.py
+data/
